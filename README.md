@@ -2,9 +2,13 @@
 This project is a terminal-based library management system developed as a team assignment in our second year of university.
 The program allows users to store and manage information about the books they have read.
 
+
 Project Overview
 
+
 The Library Tracker provides a simple text-based interface where users can:
+
+
 
 Features
 
@@ -24,6 +28,7 @@ Features
 -Load data from the file when the program starts
 
 
+
  How It Works
 
 
@@ -34,6 +39,7 @@ Features
 -Input validation is handled to prevent incorrect ratings or invalid choices.
 
 -Everything runs in the console (no graphical interface).
+
 
 
  Purpose of the Project
