@@ -10,7 +10,7 @@ The Library Tracker provides a simple text-based interface where users can:
 
 
 
-Features
+Features:
 
 
   -Add new books
@@ -29,7 +29,7 @@ Features
 
 
 
- How It Works
+ How It Works:
 
 
   -The system stores each book using four fields inside a 2D character array.
@@ -42,7 +42,7 @@ Features
 
 
 
- Purpose of the Project
+ Purpose of the Project:
 
   
   -This project helped our team practice and understand:
